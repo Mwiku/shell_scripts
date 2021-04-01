@@ -1,1 +1,2 @@
-add a new line
+add a new lin
+to check git fast forward
